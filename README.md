@@ -63,9 +63,9 @@ Durante o desenvolvimento da planilha, foram aplicados diversos conceitos e prá
 * /Documentação → Guias e materiais de apoio
 
 ## 🔗Imagens
-  https://github.com/siqueirago/Planilha-organizadora-declaracao-imposto-de-renda/blob/main/image1.png
-  https://github.com/siqueirago/Planilha-organizadora-declaracao-imposto-de-renda/blob/main/image2.png
-  https://github.com/siqueirago/Planilha-organizadora-declaracao-imposto-de-renda/blob/main/image3.png
+  * [Imagem1](https://github.com/siqueirago/Planilha-organizadora-declaracao-imposto-de-renda/blob/main/image1.png)
+  * [Imagem2](https://github.com/siqueirago/Planilha-organizadora-declaracao-imposto-de-renda/blob/main/image2.png)
+  * [Imagem3](https://github.com/siqueirago/Planilha-organizadora-declaracao-imposto-de-renda/blob/main/image3.png)
   
   
 
