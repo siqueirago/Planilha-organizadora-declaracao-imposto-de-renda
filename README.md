@@ -62,6 +62,10 @@ Durante o desenvolvimento da planilha, foram aplicados diversos conceitos e prá
 
 * /Documentação → Guias e materiais de apoio
 
+  ## 🔗Imagens
+  🔗image1.png
+  
+
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto:
